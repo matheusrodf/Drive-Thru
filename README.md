@@ -16,6 +16,7 @@ Ao efetuar um pedido, é possível:
 - Inserir a placa do carro, no formato ABC-1234.
 - Confirmar o pedido, assim ele vai para a fila de pedidos.
 - Voltar ao menu inicial.
+
 ![image](https://github.com/matheusrodf/Drive-Thru/assets/139105968/5114efe9-9346-4b7f-8539-258d4603bf65)
 
 Tela de confirmação que o pedido foi feito:
