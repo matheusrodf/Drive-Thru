@@ -47,3 +47,12 @@ Erro ao ir para o próximo pedido sem ter marcado o atual como entregue
 
 ![image](https://github.com/matheusrodf/Drive-Thru/assets/139105968/2d784498-f687-48b8-8d9e-0810c44086ce)
 
+Image Sources:
+
+Tela inicial:
+
+https://in.pinterest.com/pin/pasta-coelho--426786502192120839/
+
+Icones dos alimentos:
+
+https://www.orioniconlibrary.com/all-icons
