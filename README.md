@@ -51,7 +51,7 @@ Image Sources:
 
 Tela inicial:
 
-pinterest.com/pin/pasta-coelho--426786502192120839/
+www.pinterest.com/pin/pasta-coelho--426786502192120839/
 
 Icones dos alimentos:
 
