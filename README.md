@@ -4,7 +4,7 @@ Um programa simples em que é possível fazer e visualizar pedidos para um siste
 
 Menu:
 
-![image](https://github.com/matheusrodf/Drive-Thru/assets/139105968/759a9d3b-a686-4545-b241-4238d50e3a9d)
+![image](https://github.com/matheusrodf/Drive-Thru/assets/139105968/97e045f9-8e56-4002-b1e7-8647f5f19e2b)
 
 Ao efetuar um pedido, é possível:
 
@@ -16,7 +16,12 @@ Ao efetuar um pedido, é possível:
 - Inserir a placa do carro, no formato ABC-1234.
 - Confirmar o pedido, assim ele vai para a fila de pedidos.
 - Voltar ao menu inicial.
-![image](https://github.com/matheusrodf/Drive-Thru/assets/139105968/83a431b4-7647-4d4f-829e-e964fd6dc8e1)
+![image](https://github.com/matheusrodf/Drive-Thru/assets/139105968/5114efe9-9346-4b7f-8539-258d4603bf65)
+
+Tela de confirmação que o pedido foi feito:
+
+![image](https://github.com/matheusrodf/Drive-Thru/assets/139105968/4f03dc21-d204-48a8-8b32-8fb86fdddfd2)
+
 
 Na tela de entrega do pedido, é possível:
 
@@ -30,8 +35,14 @@ Na tela de entrega do pedido, é possível:
 - Marcar o pedido atual como entregue.
 - Verificar quantos pedidos tem na fila
   
-![image](https://github.com/matheusrodf/Drive-Thru/assets/139105968/0bb868c0-bc01-4625-ac9f-3132d33ef052)
+![image](https://github.com/matheusrodf/Drive-Thru/assets/139105968/c7767895-a8f3-4d50-9520-06e252827dd0)
 
-![image](https://github.com/matheusrodf/Drive-Thru/assets/139105968/de4f8381-e3d4-458a-865c-6db0e7260b7c)
-![image](https://github.com/matheusrodf/Drive-Thru/assets/139105968/9ad823b5-6bd8-4ce4-802f-396ced42808a)
+Número de pedidos na fila
+
+![image](https://github.com/matheusrodf/Drive-Thru/assets/139105968/c946bed7-ccf1-44f4-af6e-d78c163f23c6)
+
+
+Erro ao ir para o próximo pedido sem ter marcado o atual como entregue
+
+![image](https://github.com/matheusrodf/Drive-Thru/assets/139105968/2d784498-f687-48b8-8d9e-0810c44086ce)
 
